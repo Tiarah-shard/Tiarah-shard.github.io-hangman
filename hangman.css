@@ -101,6 +101,8 @@ p{
     background: #CBE3EF;
     box-shadow:  10px 10px 20px #6192ad,
              -10px -10px 20px #5584B0;
+    opacity:0.4;
+    filter:alpha(opacity=40); 
 }
 
 #my-word {
